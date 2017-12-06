@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    "declaration": true,
+    "rootDir": "./src",
+    "outDir": "./lib",
+    "lib": [
+      "es6"
+    ],
+    "alwaysStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  }
+}
